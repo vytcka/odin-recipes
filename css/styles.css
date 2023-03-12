@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: snow
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+ul.index > li {
+    display: inline-block;
+    padding: 10px;
+    background-color: #ccc;
+    margin-right: 10px;
+}
