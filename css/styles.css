@@ -19,3 +19,25 @@ ul.index > li {
     background-color: #ccc;
     margin-right: 10px;
 }
+
+.recipe {
+    font-size: 16px;
+    text-align: left;
+}
+
+.recipe p.description {
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica', 'sans-serif'
+}
+
+.recipe h2.description {
+    color: green
+}
+
+.recipe h2.ingredients {
+    color: blue;
+}
+
+.recipe h2.steps {
+    color: orange;
+}
